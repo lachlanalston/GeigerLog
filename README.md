@@ -6,6 +6,8 @@ Scripts can be used push data to Home Assistant by using the "command_line" inte
 
 See [sample.yaml](https://github.com/lachlanalston/GeigerLog/sample.yaml)
 
+See [exec](https://github.com/lachlanalston/GeigerLog/exec) folder for all scripts
+
 ## Devies
 Tested with:
 * GMC-320+ V5
