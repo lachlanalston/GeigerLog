@@ -1,6 +1,6 @@
 # GeigerLog
 
-Python Scipts that reads data from GQ Geiger Muller Counters over Serial
+Python Scipts that reads data from GQ Geiger Muller Counters over Serial using mini USB to USB A cable
 
 Scripts can be used push data to Home Assistant by using the "command_line" integration and adding it to your configuration.yaml file
 
