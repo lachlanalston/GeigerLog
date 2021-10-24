@@ -7,7 +7,7 @@ See sample.yaml for example
 
 ## Devies
 Tested with:
-    - GMC-320+ V5
+* GMC-320+ V5
 
 ## Known Issues
 
