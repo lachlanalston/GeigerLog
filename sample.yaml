@@ -1,0 +1,7 @@
+sensor:
+  - platform: command_line
+    name: CPM
+    command: 'python3 /config/scripts/cpm.py'
+    scan_interval: 3
+    unit_of_measurement: "CPM"
+
