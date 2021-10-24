@@ -10,5 +10,8 @@ Tested with:
     - GMC-320+ V5
 
 ## Known Issues
-| Issue | Fix | 
-|BRLTTY stops usb devices being mounted in /dev/ttyUSB0 with CH340/CH341| Uninstall BLRTTY|
+
+| Issue                                                                | Fix            |
+|----------------------------------------------------------------------|----------------|
+|BRLTTY stops CH340/CH341 usb serial devices from being mounted in /dev|Uninstall BLRTTY|
+
