@@ -4,7 +4,7 @@ Python Scipts that reads data from GQ Geiger Muller Counters over Serial using m
 
 Scripts can be used push data to Home Assistant by using the "command_line" integration and adding it to your configuration.yaml file
 
-See [sample.yaml](https://github.com/lachlanalston/GeigerLog/sample.yaml)
+See [sample.yaml](https://github.com/lachlanalston/GeigerLog/blob/master/sample.yaml)
 
 See [exec](https://github.com/lachlanalston/GeigerLog/tree/master/exec) folder for all scripts
 
