@@ -12,7 +12,7 @@ Added:
 	- FACTORYRESET
 
 Future Function:
-
+        - Rewrite using zig
 	- SPIR[A2][A1][A0][L1][L0]
 	- KEY[D0]
 	- SETSSID[STR]
