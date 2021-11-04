@@ -1,4 +1,7 @@
 # GeigerLog
+TODO:
+
+REWRITE IN ZIG
 
 Python Scipts that reads data from GQ Geiger Muller Counters over Serial using mini USB to USB A cable
 
